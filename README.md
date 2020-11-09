@@ -7,3 +7,4 @@ store it in array called longStrings.
 called positiveNumbers
 
 Test case:
+![image](https://github.com/chenyr9712/Ass3Exercise1/blob/main/snapshot/snapshot1.jpg)
